@@ -8,7 +8,7 @@ A summary of what Salesforce is: at its core, it's a SAAS and a standardized, cl
 As a developer, I mostly utilize the PAAS aspect, involving development of new features based on existing code or existing SAAS features rolled out by Salesforce. 
 Development is full-stack with OOP programming in Apex, javascript, and simplified SQL.
 
-This is an example article of what the back-end coding is like in Salesforce:
+This is an example article of what back-end coding is like in Salesforce:
 https://trailhead.salesforce.com/content/learn/modules/apex_basics_dotnet/mapping_concepts?trailmix_creator_id=strailhead&trailmix_slug=prepare-for-your-salesforce-platform-developer-i-credential
 
 A lot of Salesforce's articles are pretty self-promotional, but they have separate documentation for developers that is much more readable to me.
