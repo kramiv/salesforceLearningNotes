@@ -4,7 +4,7 @@ I'm following this study guide: https://trailhead.salesforce.com/users/strailhea
 
 When I first learned about Salesforce, I remember it was very unfamiliar to me, and I had no idea what it did. 
 
-A summary of what Salesforce is: at its core, it's a cloud-based SAAS and a standardized PAAS.
+A summary of what Salesforce is: at its core, it's a SAAS and a standardized, cloud-based PAAS.
 As a developer, I mostly utilize the PAAS aspect, involving development of new features based on existing code or existing SAAS features rolled out by Salesforce. 
 Development is full-stack with OOP programming in Apex, javascript, and simplified SQL.
 
